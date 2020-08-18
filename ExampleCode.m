@@ -3,7 +3,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Load Lung Data and Setting Parameters 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-load('lungData.mat');   % Sample Lung Data
+load('dcm.mat');   % Sample Lung Data
 THec = 38;   % Threshold about Ellipse & Circle percent
 THiop = 50;   % Threshold about in & out percent
 
